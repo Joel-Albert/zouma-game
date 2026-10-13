@@ -6,7 +6,8 @@ Bienvenue dans le dépôt du projet **Zuma**, un clone du célèbre jeu vidéo r
 
 ## 👥 Membres du groupe
 
-* **Joël Albert Tchinde** - *Développeur principal / Étudiant*
+* **Joël Albert Tchinde** - 
+* **kigoko wamba clarelle** - 
 
 ---
 
