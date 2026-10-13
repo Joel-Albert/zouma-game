@@ -1,5 +1,4 @@
-# 🎯 Jeu Zuma(SDL2)
-
+# 🎯 Jeu Zuma
 Bienvenue dans le dépôt du projet **Zuma**, un clone du célèbre jeu vidéo réalisé en langage C avec la bibliothèque graphique **SDL2**.
 
 ---
