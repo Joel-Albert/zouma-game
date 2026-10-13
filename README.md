@@ -59,8 +59,8 @@ Compilation et exécution :
 Cloner le dépôt :
 
 Bash
-git clone [https://github.com/ton-nom-utilisateur/zuma-game-c.git](https://github.com/ton-nom-utilisateur/zuma-game-c.git)
-cd zuma-game-c
+git clone [https://github.com/ton-nom-utilisateur/zuma-game.git](https://github.com/ton-nom-utilisateur/zuma-game.git)
+cd zuma-game
 Compiler le projet :
 
 Bash
