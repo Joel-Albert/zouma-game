@@ -1,12 +1,13 @@
 # 🎯 Jeu Zuma
+
 Bienvenue dans le dépôt du projet **Zuma**, un clone du célèbre jeu vidéo réalisé en langage C avec la bibliothèque graphique **SDL2**.
 
 ---
 
 ## 👥 Membres du groupe
 
-* **Joël Albert Tchinde** - 
-* **kigoko wamba clarelle** - 
+* **Joël Albert Tchinde** -
+* **kigoko wamba clarelle** -
 
 ---
 
@@ -44,7 +45,10 @@ zuma_game/
 ├── assets/             # Textures, sprites, sons et polices de caractères
 ├── Makefile            # Script d'automatisation de la compilation
 └── README.md           # Documentation du projet
-🚀 Comment lancer le jeu ?
+
+---
+
+## 🚀 Comment lancer le jeu ?
 💻 1. Version PC (Desktop - Linux / macOS / Windows)
 Prérequis :
 Compilateur C (GCC ou Clang)
@@ -83,6 +87,8 @@ PWA / Web Mobile : En accédant directement au lien de la version Web (WebAssemb
 
 Compilation native Android (NDK) : En intégrant le code C dans un projet Android Studio utilisant la bibliothèque wrapper SDL2 pour Android (SDLActivity), permettant de générer un fichier .apk.
 
+---
+
 🛠️ Outils et Technologies
 Langage : C (C99 / C11)
 
@@ -91,3 +97,14 @@ Bibliothèque graphique : SDL2
 Gestionnaire de version : Git & GitHub
 
 Compilation : GCC / Make / Emscripten (WASM)
+
+
+---
+
+### Comment mettre à jour ce fichier sur GitHub ?
+
+1. Sur ton dépôt GitHub, clique sur le fichier **`README.md`**.
+2. Clique sur l'icône en forme de **crayon (Edit this file)** en haut à droite du fichier.
+3. Efface le contenu actuel, colle le texte ci-dessus (pense à adapter ton nom d'utilisateur GitHub dans les liens si besoin).
+4. Clique sur **Commit changes...** en haut à droite.
+5. Coche **Commit directly to the `main` branch** puis valide en appuyant sur **Commit changes**.
